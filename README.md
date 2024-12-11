@@ -12,4 +12,4 @@ functions.py  #functions used in the main script
 
 /Profiles  #contains the simulated profiles according to the model of scattering
 
-/RAW data  #contains the experimental OAM-EELS spectra
+/RAW Data  #contains the experimental OAM-EELS spectra
