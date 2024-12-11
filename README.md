@@ -6,7 +6,7 @@ Data-for-First-demonstration-of-angular-momentum-resolved-electron-energy-loss-s
 
 OAM-EELS data analysis.ipynb  #main script to execute the analysis
 
-functions  #functions used in the main script
+functions.py  #functions used in the main script
 
 /DFT  #contains the simulated XANES/ELNES spectra
 
