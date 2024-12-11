@@ -4,3 +4,7 @@ Date: Dec. 11, 2024
 
 Data-for-First-demonstration-of-angular-momentum-resolved-electron-energy-loss-spectroscopy
 
+OAM-EELS data analysis.ipynb  /main script to execute the analysis
+DFT  /contains the simulated XANES/ELNES spectra
+Profiles  /contains the simulated profiles according to the model of scattering
+RAW data  /contains the experimental OAM-EELS spectra
