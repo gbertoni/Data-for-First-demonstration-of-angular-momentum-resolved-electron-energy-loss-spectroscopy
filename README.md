@@ -8,8 +8,8 @@ OAM-EELS data analysis.ipynb  #main script to execute the analysis
 
 functions.py  #functions used in the main script
 
-/DFT  #contains the simulated XANES/ELNES spectra
+\DFT\  #contains the simulated XANES/ELNES spectra
 
-/Profiles  #contains the simulated profiles according to the model of scattering
+\Profiles\  #contains the simulated profiles according to the model of scattering
 
-/RAW Data  #contains the experimental OAM-EELS spectra
+\RAW Data\  #contains the experimental OAM-EELS spectra
